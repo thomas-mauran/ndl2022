@@ -8,7 +8,7 @@ let team = [
     task: "Formulaire intéractif",
   },
   {
-    name: "Quentin Berel",
+    name: "Quentin Beral",
     classe: "Iut de montpellier 2 eme année",
     task: "Défi global (jeu visual novel)",
   },
