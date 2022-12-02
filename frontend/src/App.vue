@@ -1,4 +1,5 @@
 <template>
+  <a href="game/index.html">Game</a>
   <RouterLink to="/form" class="mainTitle">Formulaire</RouterLink>
 
   <RouterView />
